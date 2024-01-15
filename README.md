@@ -1,9 +1,14 @@
 <img src="Hello World.gif"/>
 <br>
+
 - 👋 Hi, I’m @piyushmallick001
+  
 - 👀 I’m interested in PROGRAMMING.
+  
 - 🌱 I’m currently learning  C++
+
 - 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me piyushmallick001@gmail.com
 
 <!---
